@@ -1,0 +1,18 @@
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner input:not([type=radio]):not([type=checkbox]) {
+    accent-color: black !important;
+    padding: 0px;
+    margin: 0px;
+    height: calc(100% - 1px);
+    line-height: 30px;
+    border: none;
+    font-family: inherit;
+    box-sizing: border-box;
+    color: var(--text-color);
+    background-color: transparent;
+    text-shadow: none;
+    text-align: center !important;
+}
+
+.Select-menu-outer .Select-option {
+    color: black !important;
+}
